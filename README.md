@@ -32,6 +32,12 @@ I am a passionate B.tech CS student at GCTC, driven by a curiosity for technolog
 - Connect with me on [Linkedin](www.linkedin.com/in/vaibhav-jakkula)
 - Portfolio:(https://vaibhavjakkula17.wixsite.com/portfolio)
 
+##💡 Fun Facts
+⚡ Curiosity-driven: Always exploring new ideas in tech.
+🧩 Problem Solver: I love breaking down complex problems into simple solutions.
+🌍 Open Source Advocate: Fostering a culture of collaboration in the tech community.
+
+
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
