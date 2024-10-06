@@ -1,63 +1,74 @@
-# Hi, I'm <CharVaibhav>! 👋
+# Hi, I'm Vaibhav Jakkula! 👋
 
-I am a passionate B.tech CS student at GCTC, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a **passionate B.Tech CS student** at **GCTC**, constantly exploring the evolving world of technology. From full-stack development to open-source contributions, I'm always on the lookout for exciting challenges to solve and opportunities to collaborate.
 
-![CharVaibhav's Stats](https://github-readme-stats.vercel.app/api?username=CharVaibhav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Vaibhav's Stats](https://github-readme-stats.vercel.app/api?username=CharVaibhav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelors in Computer Science at GCTC.
-- 🌐 Proud member of the [Gssoc'24 ext](https://gssoc.girlscript.tech/), contributing to the tech community.
+- 🔭 Pursuing **Bachelor's in Computer Science** at GCTC.
+- 🌐 **GSSoC'24 Ext Contributor** – actively contributing to open-source projects.
+- 🎉 **Hacktoberfest Participant 2024** – Celebrating open-source contributions.
+- 👨‍💻 Exploring **Full Stack Web Development** and **Data Science**.
+- ✨ Enthusiastic about **community building** and **collaboration**.
 
+## 🛠 Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,react,redux,java,postgres)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- **React + Redux** – Building dynamic and high-performance UIs.
+- **Tailwind CSS** – Crafting modern, responsive designs.
+- **Django** – Creating robust backend applications.
+- **PostgreSQL** – Mastering scalable database solutions.
+  
+---
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
-- 🌟 GSSoc'24 ext Contributor - Contributing to open source projects and celebrating the spirit of collaboration.
+- 🌟 **GSSoC'24 Ext Contributor**  
+  Contributing to open-source projects and embracing the spirit of collaboration.
 
+- 🎉 **Hacktoberfest 2024 Participant**  
+  Participating in one of the largest open-source celebrations, submitting meaningful PRs.
 
-## 📬 Get in Touch
+- 🎓 **Top Performer in CS Coursework**  
+  Maintaining academic excellence while engaging in extracurricular projects.
 
-- Connect with me on [Linkedin](www.linkedin.com/in/vaibhav-jakkula)
-- Portfolio:(https://vaibhavjakkula17.wixsite.com/portfolio)
+---
 
-##💡 Fun Facts
-⚡ Curiosity-driven: Always exploring new ideas in tech.
-🧩 Problem Solver: I love breaking down complex problems into simple solutions.
-🌍 Open Source Advocate: Fostering a culture of collaboration in the tech community.
+## 📬 Let's Connect!
 
+- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/vaibhav-jakkula)  
+- 🌐 Visit my [**Portfolio**](https://vaibhavjakkula17.wixsite.com/portfolio)   
+- 💻 View my [**GitHub Projects**](https://github.com/CharVaibhav)  
+- 📧 Reach me via [**Email**](mailto:vaibhavjakkula17@gmail.com)
+
+---
+
+## 💡 Fun Facts
+
+- ⚡ **Curiosity-driven:** Always exploring new ideas in tech.
+- 🧩 **Problem Solver:** I love breaking down complex problems into simple solutions.
+- 🌍 **Open Source Advocate:** Fostering a culture of collaboration in the tech community.
+
+---
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+---
 
+**Badges:**
 
-<!--
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=CharVaibhav)
+![Commits](https://img.shields.io/github/commit-activity/m/CharVaibhav/CharVaibhav)
+![Languages](https://img.shields.io/github/languages/count/CharVaibhav/CharVaibhav)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat-square&logo=hacktoberfest)
+![Hacktoberfest PRs](https://img.shields.io/github/hacktoberfest/2024/CharVaibhav?label=Hacktoberfest%202024)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!---
-CharVaibhav/CharVaibhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out for collaborations, discussions, or any tech talk! 😊
