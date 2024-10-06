@@ -20,10 +20,10 @@ I am a **passionate B.Tech CS student** at **GCTC**, constantly exploring the ev
 
 ## 🌱 Currently Exploring
 
-- **React + Redux** – Building dynamic and high-performance UIs.
+- **React** – Building dynamic and high-performance UIs.
 - **Tailwind CSS** – Crafting modern, responsive designs.
-- **Django** – Creating robust backend applications.
-- **PostgreSQL** – Mastering scalable database solutions.
+- **Python modules** – Creating robust backend applications.
+- **MySql** – Mastering scalable database solutions.
   
 ---
 
