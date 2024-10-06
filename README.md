@@ -11,7 +11,7 @@ I am a passionate B.tech CS student at GCTC, driven by a curiosity for technolog
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,Python,c,java)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
