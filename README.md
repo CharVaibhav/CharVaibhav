@@ -16,7 +16,7 @@ I am a **passionate B.Tech CS student** at **GCTC**, constantly exploring the ev
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,javascript,react,c,java,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,react,c,java,mysql,aws)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
