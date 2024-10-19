@@ -1,74 +1,61 @@
-# Hi, I'm Vaibhav Jakkula! 👋
+# Hi there, I'm Vaibhav 👋  
 
-I am a **passionate B.Tech CS student** at **GCTC**, constantly exploring the evolving world of technology. From full-stack development to open-source contributions, I'm always on the lookout for exciting challenges to solve and opportunities to collaborate.
-
-![Vaibhav's Stats](https://github-readme-stats.vercel.app/api?username=CharVaibhav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
----
-
-## 🚀 About Me
-
-- 🔭 Pursuing **Bachelor's in Computer Science** at GCTC.
-- 🌐 **GSSoC'24 Ext Contributor** – actively contributing to open-source projects.
-- 🎉 **Hacktoberfest Participant 2024** – Celebrating open-source contributions.
-- 👨‍💻 Exploring **Full Stack Web Development** and **Data Science**.
-- ✨ Enthusiastic about **community building** and **collaboration**.
-
-## 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,react,c,java,mysql,aws)](https://skillicons.dev)
-
-## 🌱 Currently Exploring
-
-- **React** – Building dynamic and high-performance UIs.
-- **Tailwind CSS** – Crafting modern, responsive designs.
-- **Python modules** – Creating robust backend applications.
-- **MySql** – Mastering scalable database solutions.
-  
----
-
-## 🏆 Achievements
-
-- 🌟 **GSSoC'24 Ext Contributor**  
-  Contributing to open-source projects and embracing the spirit of collaboration.
-
-- 🎉 **Hacktoberfest 2024 Participant**  
-  Participating in one of the largest open-source celebrations, submitting meaningful PRs.
-
-- 🎓 **Top Performer in CS Coursework**  
-  Maintaining academic excellence while engaging in extracurricular projects.
+<p align="center">
+  <a href="https://vaibhavjakkula17.wixsite.com/portfolio">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/vaibhav-jakkula">LinkedIn</a> • 
+</p>  
 
 ---
 
-## 📬 Let's Connect!
+## 👨🏻‍💻 About Me  
+<img src="https://raw.githubusercontent.com/CharVaibhav/CharVaibhav/main/assets/illustration.png" align="right" width="350px">
 
-- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/vaibhav-jakkula)  
-- 🌐 Visit my [**Portfolio**](https://vaibhavjakkula17.wixsite.com/portfolio)   
-- 💻 View my [**GitHub Projects**](https://github.com/CharVaibhav)  
-- 📧 Reach me via [**Email**](mailto:vaibhavjakkula17@gmail.com)
+✨ **Aspiring Data Scientist & Software Developer**  
+📚 **Second-Year Computer Science Undergraduate**  
+🎯 **Selected Contributor at GirlScript Summer of Code '24 Ext**  
 
----
+💼 **Looking for Internships** with a focus on data science, problem-solving, and innovative technologies.  
 
-## 💡 Fun Facts
-
-- ⚡ **Curiosity-driven:** Always exploring new ideas in tech.
-- 🧩 **Problem Solver:** I love breaking down complex problems into simple solutions.
-- 🌍 **Open Source Advocate:** Fostering a culture of collaboration in the tech community.
-
----
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
----
-
-**Badges:**
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=CharVaibhav)
-![Commits](https://img.shields.io/github/commit-activity/m/CharVaibhav/CharVaibhav)
-![Languages](https://img.shields.io/github/languages/count/CharVaibhav/CharVaibhav)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat-square&logo=hacktoberfest)
-![Hacktoberfest PRs](https://img.shields.io/github/hacktoberfest/2024/CharVaibhav?label=Hacktoberfest%202024)
+## 🛠️ Technical Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
-Feel free to reach out for collaborations, discussions, or any tech talk! 😊
+## 🌱 Experience & Achievements  
+![GSSoC Contributor](https://img.shields.io/badge/GSSoC%20'24%20Ext-Contributor-blueviolet?style=for-the-badge)  
+![T-Hub Blitz Program](https://img.shields.io/badge/T--Hub-Blitz%20Program-orange?style=for-the-badge)  
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)  
+
+---
+
+## 📊 Activity Overview  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharVaibhav&show_icons=true&theme=radical&hide_border=true" alt="Vaibhav's GitHub Stats" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharVaibhav&theme=radical&hide_border=true" alt="Vaibhav's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharVaibhav&layout=compact&theme=radical&hide_border=true" alt="Vaibhav's Top Languages" width="40%" />
+</p>
+
+---
+
+## 📈 Goals for 2024  
+- Secure a **Summer Analyst Internship**  
+- Deepen my knowledge in **Machine Learning**  
+- Contribute more to **Open Source Communities**  
+
+---
+
+## 💬 Let's Connect  
+Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/vaibhav-jakkula). Always open to interesting conversations and collaboration opportunities!  
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/CharVaibhav?label=Follow%20Me&style=social" alt="GitHub followers">
+</p>
