@@ -10,7 +10,7 @@
 ## 👨🏻‍💻 About Me  
 <img src="https://raw.githubusercontent.com/CharVaibhav/CharVaibhav/main/assets/illustration.png" align="right" width="350px">
 
-✨ **Aspiring Data Scientist & Software Developer**  
+✨ **Aspiring Software Developer**  
 📚 **Second-Year Computer Science Undergraduate**  
 🎯 **Selected Contributor at GirlScript Summer of Code '24 Ext**  
 
