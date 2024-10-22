@@ -40,12 +40,11 @@
 ## ⚡ Activity Overview
 Here's a quick summary of my contributions:
 
-```mermaid
 pie showData
     "Commits" : 57
     "Code Review" : 22
     "Issues" : 18
-    "Pull Requests" : 3
+    "Pull Requests" :
 
 ---
 
