@@ -24,17 +24,6 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)  
 
 ---
-## 🌟 Badges
-Here are a few of my earned achievements:
-
-![Badge 1](https://img.shields.io/badge/YOLO-3-informational) 
-![Badge 2](https://img.shields.io/badge/Cowboy_Monkey-3-orange) 
-![Badge 3](https://img.shields.io/badge/Brainiac-4-purple)
-![Badge 4](https://img.shields.io/badge/Peas_in_a_Pod-3-green)
-![Badge 5](https://img.shields.io/badge/Shark-3-blue)
-![Badge 6](https://img.shields.io/badge/Love-1-pink)
-![Badge 7](https://img.shields.io/badge/Adventure-1-lightblue)
-
 ## 📊 Activity Overview  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CharVaibhav&show_icons=true&theme=radical&hide_border=true" alt="Vaibhav's GitHub Stats" width="48%" />  
