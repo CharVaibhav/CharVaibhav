@@ -37,10 +37,15 @@
 
 ---
 
-## 📈 Goals for 2024  
-- Secure a **Summer Analyst Internship**  
-- Deepen my knowledge in **Machine Learning**  
-- Contribute more to **Open Source Communities**  
+## ⚡ Activity Overview
+Here's a quick summary of my contributions:
+
+```mermaid
+pie showData
+    "Commits" : 57
+    "Code Review" : 22
+    "Issues" : 18
+    "Pull Requests" : 3
 
 ---
 
