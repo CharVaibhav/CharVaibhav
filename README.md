@@ -37,17 +37,6 @@
 
 ---
 
-## ⚡ Activity Overview
-Here's a quick summary of my contributions:
-
-pie showData
-    "Commits" : 57
-    "Code Review" : 22
-    "Issues" : 18
-    "Pull Requests" :
-
----
-
 ## 💬 Let's Connect  
 Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/vaibhav-jakkula). Always open to interesting conversations and collaboration opportunities!  
 
