@@ -7,21 +7,10 @@
 
 ---
 
-## 👨🏻‍💻 About Me  
-<img src="https://raw.githubusercontent.com/CharVaibhav/CharVaibhav/main/assets/illustration.png" align="right" width="350px">
-
-✨ **Aspiring Software Developer**  
-📚 **Second-Year Computer Science Undergraduate**  
-🎯 **Selected Contributor at GirlScript Summer of Code '24 Ext**  
-
-💼 **Looking for Internships** with a focus on data science, problem-solving, and innovative technologies.  
-
----
-
 ## 🌱 Experience & Achievements  
 ![GSSoC Contributor](https://img.shields.io/badge/GSSoC%20'24%20Ext-Contributor-blueviolet?style=for-the-badge)  
 ![T-Hub Blitz Program](https://img.shields.io/badge/T--Hub-Blitz%20Program-orange?style=for-the-badge)  
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)  
+![AWS Intern](https://img.shields.io/badge/AWS%20Intern-brightgreen?style=for-the-badge)  
 
 ---
 ## 📊 Activity Overview  
