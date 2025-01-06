@@ -9,7 +9,6 @@
 
 ## 🌱 Experience & Achievements  
 ![GSSoC Contributor](https://img.shields.io/badge/GSSoC%20'24%20Ext-Contributor-blueviolet?style=for-the-badge)  
-![T-Hub Blitz Program](https://img.shields.io/badge/T--Hub-Blitz%20Program-orange?style=for-the-badge)  
 ![AWS Intern](https://img.shields.io/badge/AWS%20Intern-brightgreen?style=for-the-badge)  
 
 ---
