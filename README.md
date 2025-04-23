@@ -1,15 +1,8 @@
 # Hi there, I'm Vaibhav 👋  
 
-<p align="center">
-  <a href="https://vaibhavjakkula17.wixsite.com/portfolio">Portfolio</a> • 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/vaibhav-jakkula">LinkedIn</a> • 
 </p>  
-
----
-
-## 🌱 Experience & Achievements  
-![GSSoC Contributor](https://img.shields.io/badge/GSSoC%20'24%20Ext-Contributor-blueviolet?style=for-the-badge)  
-![AWS Intern](https://img.shields.io/badge/AWS%20Intern-brightgreen?style=for-the-badge)  
 
 ---
 ## 📊 Activity Overview  
