@@ -1,9 +1,8 @@
 # Hi there, I'm Vaibhav 👋  
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/vaibhav-jakkula">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/vaibhav-jakkula">LinkedIn</a> 
 </p>  
-
 ---
 ## 📊 Activity Overview  
 <p align="center">
